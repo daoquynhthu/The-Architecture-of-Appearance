@@ -1,4 +1,4 @@
-# 第十五章：结论：在显现中生活 (Conclusion: Living within Manifestation)
+# 第十六章：结论：在显现中生活 (Conclusion: Living within Manifestation)
 
 > “我们不再寻找坚固的大地，因为我们已经学会了如何在波浪上行走。”
 

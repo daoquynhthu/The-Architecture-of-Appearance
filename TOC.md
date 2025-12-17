@@ -120,12 +120,19 @@
 
 ## 第四部：边界与归宿 (Limits and Conclusion)
 
-### 第十四章：极限经验 (Limit Experiences)
+### 第十四章：常见误区与辩护 (Common Misconceptions and Defenses)
+- 唯心主义？（显现不等于心灵创造）
+- 相对主义？（功能性真理的硬度）
+- 唯我主义？（主体间性的动力学必然）
+- 心理主义？（显现作为先验容器）
+- 否定科学？（科学作为高阶显现结构）
+
+### 第十五章：极限经验 (Limit Experiences)
 - 痛苦：世界的不可居住性
 - 死亡：显现结构的必然终结
 - 虚无：显现的背景可能性与脆弱性
 
-### 第十五章：结论：在显现中生活 (Living within Manifestation)
+### 第十六章：结论：在显现中生活 (Living within Manifestation)
 - 哲学作为一种姿态
 - 成熟的有限性
 - 开放的未来：作为工程的显现论

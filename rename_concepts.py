@@ -14,6 +14,7 @@ def replace_in_file(filepath):
         new_content = new_content.replace('Subjective Manifestationism', 'Manifestationism')
         new_content = new_content.replace('Structural Manifestationism', 'Manifestationism')
         new_content = new_content.replace('Subjective Manifestation Theory', 'Manifestationism')
+        new_content = new_content.replace('Theory of Subjective Manifestation', 'Manifestationism')
         new_content = new_content.replace('A Theory of Subjective Manifestation', 'Manifestationism')
         
         # Specific fix for title if needed (e.g. if it results in "Manifestationism: Manifestationism")

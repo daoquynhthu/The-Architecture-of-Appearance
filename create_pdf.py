@@ -30,8 +30,9 @@ files = [
     "12_Meaning_And_Language.md",
     "13_Science_And_Objectivity.md",
     "Part3_Summary_Surviving_In_Normativity.md",
-    "14_Limit_Experiences.md",
-    "15_Conclusion_Living_Within_Manifestation.md"
+    "14_Common_Misconceptions.md",
+    "15_Limit_Experiences.md",
+    "16_Conclusion_Living_Within_Manifestation.md"
 ]
 
 def create_pdf():
