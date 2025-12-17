@@ -4,7 +4,7 @@ from pathlib import Path
 from ebooklib import epub
 
 base_dir = Path(r"d:\Philosophy\Book")
-output_file = r"d:\Philosophy\Subjective_Manifestation_Book.epub"
+output_file = r"d:\Philosophy\Manifestationism_Book.epub"
 
 # Define the order explicitly to ensure correct sequence
 files = [
@@ -37,7 +37,7 @@ def create_epub():
 
     # Set metadata
     book.set_identifier('subjective-manifestation-123456')
-    book.set_title('显现的架构：主体显现论')
+    book.set_title('显现的架构：显现论')
     book.set_language('zh')
     book.add_author('Unknown')
 

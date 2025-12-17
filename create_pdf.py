@@ -7,7 +7,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 import xhtml2pdf.default
 
 base_dir = Path(r"d:\Philosophy\Book")
-output_file = r"d:\Philosophy\Subjective_Manifestation_Book.pdf"
+output_file = r"d:\Philosophy\Manifestationism_Book.pdf"
 font_path = r"d:\Philosophy\simhei.ttf"
 
 # Define the order explicitly to ensure correct sequence
@@ -123,7 +123,7 @@ def create_pdf():
     </head>
     <body>
         <div style="text-align: center; padding-top: 100px; padding-bottom: 100px;">
-            <h1 style="font-size: 36pt; page-break-before: auto;">显现的架构：主体显现论</h1>
+            <h1 style="font-size: 36pt; page-break-before: auto;">显现的架构：显现论</h1>
             <h2 style="font-size: 20pt; color: #555;">The Architecture of Appearance</h2>
         </div>
         <div style="page-break-after: always;"></div>

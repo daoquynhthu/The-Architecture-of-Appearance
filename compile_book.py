@@ -1,7 +1,7 @@
 import os
 
 base_dir = r"d:\Philosophy\Book"
-output_file = r"d:\Philosophy\Subjective_Manifestation_Book.md"
+output_file = r"d:\Philosophy\Manifestationism_Book.md"
 
 # Define the order explicitly to ensure correct sequence
 files = [
@@ -32,8 +32,8 @@ def compile_book():
     
     with open(output_file, 'w', encoding='utf-8') as outfile:
         # Write Title (optional, can be taken from TOC or hardcoded)
-        outfile.write("# 显现的架构：主体显现论\n")
-        outfile.write("# The Architecture of Appearance: A Theory of Subjective Manifestation\n\n")
+        outfile.write("# 显现的架构：显现论\n")
+        outfile.write("# The Architecture of Appearance: Manifestationism\n\n")
         
         for filename in files:
             filepath = os.path.join(base_dir, filename)

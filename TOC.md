@@ -1,4 +1,4 @@
-# 著作标题：显现的架构：主体显现论 (The Architecture of Appearance: A Theory of Subjective Manifestation)
+# 著作标题：显现的架构：显现论 (The Architecture of Appearance: Manifestationism)
 
 ## 序言：显现的不可逃避性 (The Inescapability of Manifestation)
 - 哲学的真正起点：显现正在发生
@@ -116,7 +116,7 @@
 ### 第三部总结：在规范中幸存 (Summary of Part III: Surviving in Normativity)
 - 规范性不是外加的约束，而是显现得以持续的内部骨架
 - 从“是”到“应当”的结构性跃迁
-- 主体显现论的伦理学归宿
+- 显现论的伦理学归宿
 
 ## 第四部：边界与归宿 (Limits and Conclusion)
 
@@ -128,4 +128,4 @@
 ### 第十五章：结论：在显现中生活 (Living within Manifestation)
 - 哲学作为一种姿态
 - 成熟的有限性
-- 开放的未来：作为工程的主体显现论
+- 开放的未来：作为工程的显现论
